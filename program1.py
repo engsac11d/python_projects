@@ -1,4 +1,4 @@
-# MADBLIS GAME
+# MADLIBS GAME
 city= input("enter a city like (muqdisho , baraawe, marko): ")
 adjective1 = input("enter an adjeticy like (messy ,beuty ,dirty): ")
 adjective2= input("enter a word that end ing : ")
